@@ -1,2 +1,4 @@
-Hey! This is a clone of the tf-pose-estimation by Ildoo Kim modified to work with Tensorflow 2.0+!
-Link to original repo: https://www.github.com/ildoonet/tf-openpose
+### Pose Estimation Gesture Operated Mobile Robot
+## We built a 4-wheeled robot from scratch having Jetson Nano and a Logitech C270 Webcam to move based on gestures detected based on estimated position of joints using OpenPose.
+
+Link to OpenPose: https://www.github.com/ildoonet/tf-openpose
