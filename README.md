@@ -1,5 +1,5 @@
 # Pose Estimation Gesture Operated Mobile Robot
-## We built a 4-wheeled robot from scratch having Jetson Nano and a Logitech C270 Webcam to move based on gestures detected based on estimated position of joints using OpenPose.
+## We built a 4-wheeled robot from scratch having Jetson Nano, Arduino MEGA and a Logitech C270 Webcam to move based on gestures detected based on estimated position of joints using OpenPose.
 ### We used the joint poses detected by Open Pose to evaluate whether the wrist and shoulder are in same horizontal line, wrist is above the elbow or wrist is below the elbow. Based on these 3 seperate gestures we give motor commands so that robot either moves forward, stays in place or moves in reverse.
 ![IMG_20220510_130425](https://user-images.githubusercontent.com/34472717/232258653-1912e532-5e63-4315-a7d6-d6f22a34e613.jpg)
 
